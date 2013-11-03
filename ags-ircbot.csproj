@@ -51,8 +51,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ChatterBotAPI.dll" />
-    <Content Include="IrcDotNet.dll" />
+    <Content Include="lib\ChatterBotAPI.dll" />
+    <Content Include="lib\IrcDotNet.dll" />
+    <Content Include="lib\licenses.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
