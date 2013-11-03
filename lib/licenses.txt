@@ -1,0 +1,2 @@
+﻿IRC.NET is under the MIT license and is (c) 2010 Alex Regueiro
+ChatterBotAPI is under the GNU LGPL
